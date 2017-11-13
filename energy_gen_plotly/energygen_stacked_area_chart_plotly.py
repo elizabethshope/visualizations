@@ -8,7 +8,7 @@ energy_gen = pd.read_csv('energy_generation_by_source_year.csv')
 
 # Get list of energy sources
 energy_sources = pd.unique(energy_gen['ENERGY SOURCE'])
-energy_sources = energy_sources[[11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]]
+energy_sources = energy_sources[[10, 9, 8, 5, 4, 3, 2, 0]]
 
 # Get list of years
 years = pd.unique(energy_gen['YEAR'])
@@ -17,8 +17,15 @@ years = pd.unique(energy_gen['YEAR'])
 energy_gen_dict = {}
 
 for source in energy_sources:
-    source_subset = energy_gen.loc[energy_gen['ENERGY SOURCE'] == source]
-    energy_gen_dict[source] = np.asarray(source_subset['GENERATION (Megawatthours)'])
+    if source == 'Other':
+        energy_gen_dict[source] = np.asarray(energy_gen.loc[energy_gen['ENERGY SOURCE'] == 'Other']['GENERATION (Megawatthours)']) + \
+                                  np.asarray(energy_gen.loc[energy_gen['ENERGY SOURCE'] == 'Other Biomass']['GENERATION (Megawatthours)']) + \
+                                  np.asarray(energy_gen.loc[energy_gen['ENERGY SOURCE'] == 'Other Gases']['GENERATION (Megawatthours)']) + \
+                                  np.asarray(energy_gen.loc[energy_gen['ENERGY SOURCE'] == 'Geothermal']['GENERATION (Megawatthours)']) + \
+                                  np.asarray(energy_gen.loc[energy_gen['ENERGY SOURCE'] == 'Wood and Wood Derived Fuels']['GENERATION (Megawatthours)'])
+    else:
+        source_subset = energy_gen.loc[energy_gen['ENERGY SOURCE'] == source]
+        energy_gen_dict[source] = np.asarray(source_subset['GENERATION (Megawatthours)'])
 
 # Create cumulative stacked values
 energy_stacked_vals = {}
@@ -30,7 +37,7 @@ for i in range(len(energy_sources)):
     cum_val = energy_stacked_vals[i]
 
 l = []
-c = ['hsl('+str(h)+',50%'+',50%)' for h in np.linspace(10, 370, 13)][:12]
+c = ['hsl('+str(h)+',50%'+',50%)' for h in np.linspace(0, 360, 9)][:8]
 
 for i in range(len(energy_sources)):
     trace0 = go.Scatter(
