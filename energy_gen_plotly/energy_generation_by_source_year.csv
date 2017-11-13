@@ -1,0 +1,313 @@
+YEAR,ENERGY SOURCE,GENERATION (Megawatthours)
+1990,Coal,6376045922.0
+1990,Geothermal,61737084.0
+1990,Hydroelectric Conventional,1171463382.0
+1990,Natural Gas,1491060616.0
+1990,Nuclear,2307446712.0
+1990,Other,14462650.0
+1990,Other Biomass,53041506.0
+1990,Other Gases,41531316.0
+1990,Petroleum,505840818.0
+1990,Solar Thermal and Photovoltaic,1468348.0
+1990,Wind,11154400.0
+1990,Wood and Wood Derived Fuels,130087558.0
+1991,Coal,6362490994.0
+1991,Geothermal,63865778.0
+1991,Hydroelectric Conventional,1155976760.0
+1991,Natural Gas,1526212070.0
+1991,Nuclear,2450260348.0
+1991,Other,18955396.0
+1991,Other Biomass,62658984.0
+1991,Other Gases,45342368.0
+1991,Petroleum,479006304.0
+1991,Solar Thermal and Photovoltaic,1887060.0
+1991,Wind,11803802.0
+1991,Wood and Wood Derived Fuels,134901430.0
+1992,Coal,6484824160.0
+1992,Geothermal,64551848.0
+1992,Hydroelectric Conventional,1012352016.0
+1992,Natural Gas,1616297506.0
+1992,Nuclear,2475105052.0
+1992,Other,14879552.0
+1992,Other Biomass,71264132.0
+1992,Other Gases,53080942.0
+1992,Petroleum,400616658.0
+1992,Solar Thermal and Photovoltaic,1598560.0
+1992,Wind,11550090.0
+1992,Wood and Wood Derived Fuels,146114652.0
+1993,Coal,6760280928.0
+1993,Geothermal,67154260.0
+1993,Hydroelectric Conventional,1121976030.0
+1993,Natural Gas,1659707192.0
+1993,Nuclear,2441164856.0
+1993,Other,13948624.0
+1993,Other Biomass,73332118.0
+1993,Other Gases,51823192.0
+1993,Petroleum,451152718.0
+1993,Solar Thermal and Photovoltaic,1849808.0
+1993,Wind,12023308.0
+1993,Wood and Wood Derived Fuels,150493638.0
+1994,Coal,6762775464.0
+1994,Geothermal,62141814.0
+1994,Hydroelectric Conventional,1040502930.0
+1994,Natural Gas,1840874730.0
+1994,Nuclear,2561759328.0
+1994,Other,14667702.0
+1994,Other Biomass,76514388.0
+1994,Other Gases,53276200.0
+1994,Petroleum,423603934.0
+1994,Solar Thermal and Photovoltaic,1946488.0
+1994,Wind,13788436.0
+1994,Wood and Wood Derived Fuels,151749456.0
+1995,Coal,6837705866.0
+1995,Geothermal,53513032.0
+1995,Hydroelectric Conventional,1243330982.0
+1995,Natural Gas,1984231772.0
+1995,Nuclear,2693608492.0
+1995,Other,16415232.0
+1995,Other Biomass,81619890.0
+1995,Other Gases,55479802.0
+1995,Petroleum,298216254.0
+1995,Solar Thermal and Photovoltaic,1987284.0
+1995,Wind,12657014.0
+1995,Wood and Wood Derived Fuels,146084322.0
+1996,Coal,7180782374.0
+1996,Geothermal,57314736.0
+1996,Hydroelectric Conventional,1388648250.0
+1996,Natural Gas,1820222312.0
+1996,Nuclear,2698914184.0
+1996,Other,14285118.0
+1996,Other Biomass,83645358.0
+1996,Other Gases,57423250.0
+1996,Petroleum,325644912.0
+1996,Solar Thermal and Photovoltaic,2084820.0
+1996,Wind,12936278.0
+1996,Wood and Wood Derived Fuels,147201248.0
+1997,Coal,7380062950.0
+1997,Geothermal,58904408.0
+1997,Hydroelectric Conventional,1425813176.0
+1997,Natural Gas,1917594674.0
+1997,Nuclear,2514576684.0
+1997,Other,14447956.0
+1997,Other Biomass,86836304.0
+1997,Other Gases,53402538.0
+1997,Petroleum,370219486.0
+1997,Solar Thermal and Photovoltaic,2044672.0
+1997,Wind,13152140.0
+1997,Wood and Wood Derived Fuels,147793764.0
+1998,Coal,7494062760.0
+1998,Geothermal,59095672.0
+1998,Hydroelectric Conventional,1293342650.0
+1998,Natural Gas,2125028424.0
+1998,Nuclear,2694808416.0
+1998,Other,14285640.0
+1998,Other Biomass,89791750.0
+1998,Other Gases,53968916.0
+1998,Petroleum,515200672.0
+1998,Solar Thermal and Photovoltaic,2009892.0
+1998,Wind,12102782.0
+1998,Wood and Wood Derived Fuels,145353530.0
+1999,Coal,7524348890.0
+1999,Geothermal,59308054.0
+1999,Hydroelectric Conventional,1278144120.0
+1999,Natural Gas,2225584518.0
+1999,Nuclear,2913016494.0
+1999,Other,16095094.0
+1999,Other Biomass,90288718.0
+1999,Other Gases,56502364.0
+1999,Petroleum,472243360.0
+1999,Solar Thermal and Photovoltaic,1980328.0
+1999,Wind,17951994.0
+1999,Wood and Wood Derived Fuels,148162938.0
+2000,Coal,7865058384.0
+2000,Geothermal,56372632.0
+2000,Hydroelectric Conventional,1102290392.0
+2000,Natural Gas,2404152632.0
+2000,Nuclear,3015571760.0
+2000,Other,19175656.0
+2000,Other Biomass,92525260.0
+2000,Other Gases,55819028.0
+2000,Petroleum,444883860.0
+2000,Solar Thermal and Photovoltaic,1973500.0
+2000,Wind,22373044.0
+2000,Wood and Wood Derived Fuels,150379466.0
+2001,Coal,7615823772.0
+2001,Geothermal,54962004.0
+2001,Hydroelectric Conventional,867844176.0
+2001,Natural Gas,2556516480.0
+2001,Nuclear,3075305232.0
+2001,Other,47625371.0
+2001,Other Biomass,58192610.0
+2001,Other Gases,36157892.0
+2001,Petroleum,499520888.0
+2001,Solar Thermal and Photovoltaic,2171020.0
+2001,Wind,26949328.0
+2001,Wood and Wood Derived Fuels,140799620.0
+2002,Coal,7732521415.0
+2002,Geothermal,57965240.0
+2002,Hydroelectric Conventional,1057315328.0
+2002,Natural Gas,2764022980.0
+2002,Nuclear,3120256348.0
+2002,Other,54107643.0
+2002,Other Biomass,60174855.0
+2002,Other Gases,45850741.0
+2002,Petroleum,378269570.0
+2002,Solar Thermal and Photovoltaic,2219324.0
+2002,Wind,41417116.0
+2002,Wood and Wood Derived Fuels,154660156.0
+2003,Coal,7894946999.0
+2003,Geothermal,57696924.0
+2003,Hydroelectric Conventional,1103225312.0
+2003,Natural Gas,2599630160.0
+2003,Nuclear,3054930780.0
+2003,Other,56178025.0
+2003,Other Biomass,63247979.0
+2003,Other Gases,62400081.0
+2003,Petroleum,477622560.0
+2003,Solar Thermal and Photovoltaic,2136004.0
+2003,Wind,44749866.0
+2003,Wood and Wood Derived Fuels,150116392.0
+2004,Coal,7913202195.0
+2004,Geothermal,59243898.0
+2004,Hydroelectric Conventional,1073669228.0
+2004,Natural Gas,2840400066.0
+2004,Nuclear,3154113548.0
+2004,Other,56929605.0
+2004,Other Biomass,61682284.0
+2004,Other Gases,61009724.0
+2004,Petroleum,484580227.0
+2004,Solar Thermal and Photovoltaic,2300620.0
+2004,Wind,56574963.0
+2004,Wood and Wood Derived Fuels,152467535.0
+2005,Coal,8051492187.0
+2005,Geothermal,58766980.0
+2005,Hydroelectric Conventional,1081285020.0
+2005,Natural Gas,3043841021.0
+2005,Nuclear,3127945460.0
+2005,Other,51284235.0
+2005,Other Biomass,61681577.0
+2005,Other Gases,53856571.0
+2005,Petroleum,488900071.0
+2005,Solar Thermal and Photovoltaic,2201176.0
+2005,Wind,71242196.0
+2005,Wood and Wood Derived Fuels,155425671.0
+2006,Coal,7962044538.0
+2006,Geothermal,58272116.0
+2006,Hydroelectric Conventional,1156985662.0
+2006,Natural Gas,3265763081.0
+2006,Nuclear,3148874544.0
+2006,Other,51897598.0
+2006,Other Biomass,64394098.0
+2006,Other Gases,56707235.0
+2006,Petroleum,256665657.0
+2006,Solar Thermal and Photovoltaic,2030824.0
+2006,Wind,106356548.0
+2006,Wood and Wood Derived Fuels,155048386.0
+2007,Coal,8065822332.0
+2007,Geothermal,58548852.0
+2007,Hydroelectric Conventional,990039900.0
+2007,Natural Gas,3586359164.0
+2007,Nuclear,3225699012.0
+2007,Other,48924523.0
+2007,Other Biomass,66098215.0
+2007,Other Gases,53813417.0
+2007,Petroleum,262955916.0
+2007,Solar Thermal and Photovoltaic,2447172.0
+2007,Wind,137799708.0
+2007,Wood and Wood Derived Fuels,156056103.0
+2008,Coal,7943204981.0
+2008,Geothermal,59359908.0
+2008,Hydroelectric Conventional,1019325537.0
+2008,Natural Gas,3531922397.0
+2008,Nuclear,3224833740.0
+2008,Other,47214662.0
+2008,Other Biomass,70935041.0
+2008,Other Gases,46827503.0
+2008,Petroleum,184970449.0
+2008,Solar Thermal and Photovoltaic,3457260.0
+2008,Wind,221452402.0
+2008,Wood and Wood Derived Fuels,149199418.0
+2009,Coal,7023617012.0
+2009,Geothermal,60034632.0
+2009,Hydroelectric Conventional,1093780382.0
+2009,Natural Gas,3683914725.0
+2009,Nuclear,3195418340.0
+2009,Other,47713337.0
+2009,Other Biomass,73770374.0
+2009,Other Gases,42528426.0
+2009,Petroleum,155746065.0
+2009,Solar Thermal and Photovoltaic,3564719.0
+2009,Wind,295544532.0
+2009,Wood and Wood Derived Fuels,144200555.0
+2010,Coal,7389161118.0
+2010,Geothermal,60876852.0
+2010,Hydroelectric Conventional,1040812277.0
+2010,Natural Gas,3950788934.0
+2010,Nuclear,3227873204.0
+2010,Other,51421365.0
+2010,Other Biomass,75668822.0
+2010,Other Gases,45251148.0
+2010,Petroleum,148244055.0
+2010,Solar Thermal and Photovoltaic,4848727.0
+2010,Wind,378608987.0
+2010,Wood and Wood Derived Fuels,148688637.0
+2011,Coal,6933720021.39
+2011,Geothermal,61264272.0
+2011,Hydroelectric Conventional,1277419613.8300004
+2011,Natural Gas,4054755716.9799986
+2011,Nuclear,3160817468.0
+2011,Other,56614397.839999996
+2011,Other Biomass,76887052.73000003
+2011,Other Gases,46264801.330000006
+2011,Petroleum,120728980.38999994
+2011,Solar Thermal and Photovoltaic,7270782.62
+2011,Wind,480706394.52
+2011,Wood and Wood Derived Fuels,149796267.17000002
+2012,Coal,6056171782.0
+2012,Geothermal,62249704.0
+2012,Hydroelectric Conventional,1104960874.0
+2012,Natural Gas,4903576705.0
+2012,Nuclear,3077324996.0
+2012,Other,55148267.0
+2012,Other Biomass,79292147.0
+2012,Other Gases,47590337.0
+2012,Petroleum,92758165.0
+2012,Solar Thermal and Photovoltaic,17306702.0
+2012,Wind,563286858.0
+2012,Wood and Wood Derived Fuels,151196515.0
+2013,Coal,6324458863.180004
+2013,Geothermal,63098696.31999999
+2013,Hydroelectric Conventional,1074261530.9399996
+2013,Natural Gas,4499342239.37
+2013,Nuclear,3156065892.0
+2013,Other,54350087.27
+2013,Other Biomass,83321958.30999999
+2013,Other Gases,51411748.61999999
+2013,Petroleum,108657775.00999996
+2013,Solar Thermal and Photovoltaic,36142481.53000001
+2013,Wind,671358981.76
+2013,Wood and Wood Derived Fuels,160110147.92000002
+2014,Coal,6326841399.0599985
+2014,Geothermal,63507764.0
+2014,Hydroelectric Conventional,1037466487.46
+2014,Natural Gas,4506435833.350004
+2014,Nuclear,3188663928.0
+2014,Other,53845181.48999998
+2014,Other Biomass,86598875.14000006
+2014,Other Gases,48087144.15
+2014,Petroleum,120927446.14000005
+2014,Solar Thermal and Photovoltaic,70764124.74
+2014,Wind,726621127.2000002
+2014,Wood and Wood Derived Fuels,169358900.98999995
+2015,Coal,5409592786.0
+2015,Geothermal,63670300.0
+2015,Hydroelectric Conventional,996320340.0
+2015,Natural Gas,5333928445.0
+2015,Nuclear,3188711508.0
+2015,Other,56111225.0
+2015,Other Biomass,86813484.0
+2015,Other Gases,52466790.0
+2015,Petroleum,112994997.0
+2015,Solar Thermal and Photovoltaic,99571613.0
+2015,Wind,762874192.0
+2015,Wood and Wood Derived Fuels,167714025.0
