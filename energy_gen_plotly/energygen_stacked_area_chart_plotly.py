@@ -55,16 +55,33 @@ for i in range(len(energy_sources)):
     l.append(trace0)
 
 layout = go.Layout(
-    title='<b>Energy Generation by Source in the United States 1990-2015</b>',
+    title='Energy Generation by Source in the United States 1990-2015',
     titlefont=dict(
-        size=18,
-    ),
+        family='Raleway, sans-serif',
+        size=32,
+        color='#505C68'),
     xaxis=dict(
         title='Year',
+        titlefont=dict(
+            family='Raleway, sans-serif'),
+        tickfont=dict(
+            family='Raleway, sans-serif')
     ),
     yaxis=dict(
         title='Energy Generation (Mwh)',
+        titlefont=dict(
+            family='Raleway, sans-serif'),
+        tickfont=dict(
+            family='Raleway, sans-serif')
     ),
+    hoverlabel=dict(
+        font=dict(
+            family='Raleway, sans-serif')
+    ),
+    legend=dict(
+        font=dict(
+            family='Raleway, sans-serif')
+    )
 )
 
 fig = go.Figure(data=l, layout=layout)
