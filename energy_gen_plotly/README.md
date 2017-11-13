@@ -1,0 +1,1 @@
+This is a data visualization that I built with Python 3 and Plotly. This directory contains the cleaned data and code for the visualization. You can view the visualization on my website at http://elizabeth-shope.com/portfolio/us_energy_generation_plotly.html.
