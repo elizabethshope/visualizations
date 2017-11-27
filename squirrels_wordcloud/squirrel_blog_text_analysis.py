@@ -2,6 +2,7 @@
 import re
 from nltk import word_tokenize, FreqDist
 from nltk.corpus import stopwords
+import math
 
 # Import blog content
 with open('blogtext.txt') as f:
