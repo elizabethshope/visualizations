@@ -1,0 +1,109 @@
+"From","To","Weight"
+"Australasia & Oceania","Armed Assault",49
+"Central America & Caribbean","Armed Assault",4360
+"Central Asia","Armed Assault",115
+"East Asia","Armed Assault",114
+"Eastern Europe","Armed Assault",1254
+"Middle East & North Africa","Armed Assault",8740
+"North America","Armed Assault",406
+"South America","Armed Assault",3824
+"South Asia","Armed Assault",10604
+"Southeast Asia","Armed Assault",3736
+"Sub-Saharan Africa","Armed Assault",5364
+"Western Europe","Armed Assault",1657
+"Australasia & Oceania","Assassination",30
+"Central America & Caribbean","Assassination",1253
+"Central Asia","Assassination",114
+"East Asia","Assassination",55
+"Eastern Europe","Assassination",386
+"Middle East & North Africa","Assassination",4060
+"North America","Assassination",237
+"South America","Assassination",2713
+"South Asia","Assassination",3967
+"Southeast Asia","Assassination",1237
+"Sub-Saharan Africa","Assassination",1441
+"Western Europe","Assassination",2909
+"Australasia & Oceania","Bombing/Explosion",73
+"Central America & Caribbean","Bombing/Explosion",3239
+"Central Asia","Bombing/Explosion",231
+"East Asia","Bombing/Explosion",327
+"Eastern Europe","Bombing/Explosion",2720
+"Middle East & North Africa","Bombing/Explosion",28314
+"North America","Bombing/Explosion",1528
+"South America","Bombing/Explosion",8977
+"South Asia","Bombing/Explosion",19834
+"Southeast Asia","Bombing/Explosion",4476
+"Sub-Saharan Africa","Bombing/Explosion",4930
+"Western Europe","Bombing/Explosion",8424
+"Australasia & Oceania","Facility/Infrastructure Attack",67
+"Central America & Caribbean","Facility/Infrastructure Attack",401
+"Central Asia","Facility/Infrastructure Attack",19
+"East Asia","Facility/Infrastructure Attack",198
+"Eastern Europe","Facility/Infrastructure Attack",239
+"Middle East & North Africa","Facility/Infrastructure Attack",1049
+"North America","Facility/Infrastructure Attack",872
+"South America","Facility/Infrastructure Attack",776
+"South Asia","Facility/Infrastructure Attack",1898
+"Southeast Asia","Facility/Infrastructure Attack",838
+"Sub-Saharan Africa","Facility/Infrastructure Attack",711
+"Western Europe","Facility/Infrastructure Attack",2513
+"Australasia & Oceania","Hijacking",3
+"Central America & Caribbean","Hijacking",26
+"Central Asia","Hijacking",8
+"East Asia","Hijacking",18
+"Eastern Europe","Hijacking",26
+"Middle East & North Africa","Hijacking",126
+"North America","Hijacking",18
+"South America","Hijacking",66
+"South Asia","Hijacking",85
+"Southeast Asia","Hijacking",43
+"Sub-Saharan Africa","Hijacking",116
+"Western Europe","Hijacking",63
+"Australasia & Oceania","Hostage Taking (Barricade Incident)",5
+"Central America & Caribbean","Hostage Taking (Barricade Incident)",187
+"Central Asia","Hostage Taking (Barricade Incident)",2
+"East Asia","Hostage Taking (Barricade Incident)",3
+"Eastern Europe","Hostage Taking (Barricade Incident)",20
+"Middle East & North Africa","Hostage Taking (Barricade Incident)",87
+"North America","Hostage Taking (Barricade Incident)",63
+"South America","Hostage Taking (Barricade Incident)",229
+"South Asia","Hostage Taking (Barricade Incident)",100
+"Southeast Asia","Hostage Taking (Barricade Incident)",47
+"Sub-Saharan Africa","Hostage Taking (Barricade Incident)",73
+"Western Europe","Hostage Taking (Barricade Incident)",86
+"Australasia & Oceania","Hostage Taking (Kidnapping)",11
+"Central America & Caribbean","Hostage Taking (Kidnapping)",501
+"Central Asia","Hostage Taking (Kidnapping)",45
+"East Asia","Hostage Taking (Kidnapping)",14
+"Eastern Europe","Hostage Taking (Kidnapping)",216
+"Middle East & North Africa","Hostage Taking (Kidnapping)",2417
+"North America","Hostage Taking (Kidnapping)",121
+"South America","Hostage Taking (Kidnapping)",1378
+"South Asia","Hostage Taking (Kidnapping)",3002
+"Southeast Asia","Hostage Taking (Kidnapping)",669
+"Sub-Saharan Africa","Hostage Taking (Kidnapping)",1590
+"Western Europe","Hostage Taking (Kidnapping)",269
+"Australasia & Oceania","Unarmed Assault",10
+"Central America & Caribbean","Unarmed Assault",19
+"Central Asia","Unarmed Assault",4
+"East Asia","Unarmed Assault",42
+"Eastern Europe","Unarmed Assault",57
+"Middle East & North Africa","Unarmed Assault",164
+"North America","Unarmed Assault",69
+"South America","Unarmed Assault",47
+"South Asia","Unarmed Assault",279
+"Southeast Asia","Unarmed Assault",23
+"Sub-Saharan Africa","Unarmed Assault",73
+"Western Europe","Unarmed Assault",126
+"Australasia & Oceania","Unknown",16
+"Central America & Caribbean","Unknown",354
+"Central Asia","Unknown",16
+"East Asia","Unknown",23
+"Eastern Europe","Unknown",113
+"Middle East & North Africa","Unknown",1554
+"North America","Unknown",32
+"South America","Unknown",752
+"South Asia","Unknown",1728
+"Southeast Asia","Unknown",384
+"Sub-Saharan Africa","Unknown",1192
+"Western Europe","Unknown",260
