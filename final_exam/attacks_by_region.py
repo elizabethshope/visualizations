@@ -47,10 +47,10 @@ for i in range(len(regions)):
     l.append(trace0)
 
 layout = go.Layout(
-    title='Terrorism Incidents by Region and Year (1970 - 2016)',
+    title='<b>Incidents by Region and Year</b>',
     titlefont=dict(
         family='Raleway, sans-serif',
-        size=32,
+        size=20,
         color='#505C68'),
     xaxis=dict(
         title='Year',

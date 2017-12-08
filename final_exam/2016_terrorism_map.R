@@ -19,7 +19,7 @@ loc_maker <- function(country, city, state) {
 terrorism_2016$location <- mapply(loc_maker, terrorism_2016$country_txt, terrorism_2016$city, terrorism_2016$provstate)
 
 # Make popups for the map
-popup <- paste0("<br><strong>Location: </strong>", 
+popup <- paste0("<strong>Location: </strong>", 
                 terrorism_2016$location,
                 "<br><strong>Date: </strong>", 
                 terrorism_2016$imonth, "/", terrorism_2016$iday, "/", terrorism_2016$iyear,
