@@ -71,6 +71,8 @@ data = [trace1, trace2, trace3]
 
 layout = dict(
     title='Capital Bikeshare - Trips Per Hour',
+    width=736,
+    height=500,
     titlefont=dict(
         family='Raleway, sans-serif',
         size=32,
