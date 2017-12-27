@@ -55,11 +55,13 @@ for i in range(len(energy_sources)):
     l.append(trace0)
 
 layout = go.Layout(
-    title='Energy Generation by Source in the United States 1990-2015',
+    title='Energy Generation by Source<br>in the United States 1990-2015',
     titlefont=dict(
         family='Raleway, sans-serif',
         size=32,
         color='#505C68'),
+    height=600,
+    width=736,
     xaxis=dict(
         title='Year',
         titlefont=dict(
