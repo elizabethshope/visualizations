@@ -1,0 +1,3 @@
+# Data Visualization
+## Terrorism Visualizations
+This directory contains the data subsets and code for making several visualizations of parts of the Global Terrorism Database data. This includes a Leaflet map of terrorism incidents in 2016, a Tableau visualization of the history of terrorism in Iraq, and a NetworkD3 visualization of the mapping between regions of the world and types of terrorism incidents. You can view them on my website at http://elizabeth-shope.com/portfolio/terrorism_mapping.html and http://elizabeth-shope.com/portfolio/terrorism_sankey_network.html.

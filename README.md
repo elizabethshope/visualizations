@@ -1,2 +1,1 @@
-# visualizations
-This repository contains code and data for some of my data visualizations.
+This repository contains code and data for some of my data visualizations. Feel free to check out the code and data, and take a look at my [portfolio website](http://elizabeth-shope.com/), where the visualizations are displayed.

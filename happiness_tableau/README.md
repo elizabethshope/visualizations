@@ -1,0 +1,3 @@
+# Data Visualization
+## World Happiness Exploration
+This directory contains only the data I used (plus data for the two previous years) for making a Tableau dashboard that shows happiness levels around the world, lets you explore which countries are the happiest and least happy, and see which factors are most correlated with happiness levels. You can see the visualization on my website at http://elizabeth-shope.com/portfolio/world_happiness_tableau.html. 
